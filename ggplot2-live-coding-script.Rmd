@@ -549,6 +549,9 @@ Deliberately not covering this here as it is required for a couple of the exerci
 and we want you to work it out for yourself using the help pages and what you've learned
 so far about the common grammar for all ggplots.
 
+## Exercises part I - geoms and aesthetics
+
+See separate R markdown document.
 
 ## The ggplot object - a peek under the hood
 
@@ -751,7 +754,7 @@ ggplot(data = patients, mapping = aes(x = Height, y = Weight, colour = Sex)) +
   facet_wrap(~ Smokes)
 ```
 
-## Exercises part I - geoms and aesthetics
+## Exercises part II - faceets
 
 See separate R markdown document.
 
@@ -1183,6 +1186,6 @@ be specified, e.g.
 ggsave("myplot.pdf", width = 8, height = 6)
 ```
 
-## Exercises part II - scales, statistical transformations and themes
+## Exercises part III - scales and themes
 
 See separate R markdown document.
