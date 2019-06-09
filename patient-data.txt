@@ -1,4 +1,4 @@
-ID	Name	Sex	Smokes	Height	Weight	Birth	State	Grade_Level	Died	Count	Date.Entered.Study
+ID	Name	Sex	Smokes	Height	Weight	Birth	State	Grade_Level	Died	Score	Date.Entered.Study
 AC/AH/001	Michael	Male	FALSE	182.87cm	76.57kg	1972-02-06	Georgia	2	FALSE	0.01	2015-12-01
 AC/AH/017	Derek	Male	FALSE	179.12cm	80.43kg	1972-06-15	Colorado 	2	FALSE	-1.31	
 AC/AH/020	Todd	 Male	FALSE	169.15cm	75.48kg	1972-07-09	New Jersey	2	FALSE	-0.17	

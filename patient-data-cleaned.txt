@@ -1,4 +1,4 @@
-ID	Name	Sex	Smokes	Height	Weight	Birth	State	Grade	Died	Count	Date.Entered.Study	Age	BMI	Overweight
+ID	Name	Sex	Smokes	Height	Weight	Birth	State	Grade	Died	Score	Date.Entered.Study	Age	BMI	Overweight
 AC/AH/001	Michael	Male	Non-Smoker	182.87	76.57	1972-02-06	Georgia	2	FALSE	0.01	2015-12-01	44	22.9	FALSE
 AC/AH/017	Derek	Male	Non-Smoker	179.12	80.43	1972-06-15	Colorado	2	FALSE	-1.31	2015-12-01	43	25.07	TRUE
 AC/AH/020	Todd	Male	Non-Smoker	169.15	75.48	1972-07-09	New Jersey	2	FALSE	-0.17	2015-12-01	43	26.38	TRUE
