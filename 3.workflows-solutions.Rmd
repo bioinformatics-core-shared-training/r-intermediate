@@ -56,5 +56,5 @@ filter(patients, Sex == "Female", str_starts(State, "New "))
 4. Filter for overweight smokers that are still alive.
 
 ```{r}
-filter(patients, Overweight, Smokes, !Died)
+filter(patients, Overweight & Smokes == "Smoker" & !Died)
 ```
